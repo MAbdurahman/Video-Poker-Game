@@ -201,6 +201,7 @@ public class GamePanel extends JPanel {
         //</editor-fold>
 
         /** Create and display the game */
+
         java.awt.EventQueue.invokeLater(()-> {
             JFrame frame = new JFrame("V i d e o  P o k e r");
             Image icon = Toolkit.getDefaultToolkit().getImage(GamePanel.class.
